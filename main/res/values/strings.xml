@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CS-360 Inventory Tracker</string>
+    <string name="userHint">Enter Username...</string>
+    <string name="passHint">Enter Password...</string>
+    <string name="passConfirmHint">Confirm Password...</string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonSignup">Sign Up</string>
+    <string name="signupText">Don\'t have an account? Sign up here:</string>
+    <string name="buttonCreateAccount">Create Account</string>
+    <string name="invenHeaderName">Item Name</string>
+    <string name="invenHeaderQuant">Quantity</string>
+    <string name="defaultItem">Item name goes here</string>
+    <string name="defaultQuantity">###</string>
+    <string name="changeName">Enter new name:</string>
+    <string name="changeQuantity">Enter new quantity:</string>
+    <string name="quantityHint">Quantity...</string>
+    <string name="buttonSubmitChange">Submit Change</string>
+    <string name="enterItemName">Enter Item Name:</string>
+    <string name="enterNameHint">Name...</string>
+    <string name="enterItemQuantity">Enter Item Quantity:</string>
+    <string name="buttonCreateItem">Create Item</string>
+    <string name="invalidUser">Your username or password is incorrect</string>
+    <string name="passNoMatch">Passwords do not match</string>
+    <string name="smsPermission">SMS Permission</string>
+    <string name="smsMessage">"This app requests permission to send SMS
+        notifications to let you know if one of the items in the inventory
+        reaches a quantity of zero."</string>
+    <string name="smsAllow">Allow</string>
+    <string name="smsDeny">Deny</string>
+    <string name="itemDelete">Delete Item?</string>
+    <string name="itemDeleteMessage">Are you sure you want to delete the item: %1$s?</string>
+    <string name="itemDeleteAllow">Delete</string>
+    <string name="itemDeleteCancel">Cancel</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="phoneNumberMessage">Please enter your phone number for the SMS Notifications:</string>
+    <string name="phoneNumberHint">5555215554</string>
+    <string name="phoneNumberOk">Ok</string>
+    <string name="notifMessage">Your inventory has run out of %1$s</string>
+    <string name="notifSent">Notification Sent</string>
+</resources>
